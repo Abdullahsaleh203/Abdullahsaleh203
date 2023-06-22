@@ -1,9 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5003&pause=1000&color=F70000&background=2A5EFF00&width=435&lines=+++Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;+i'm+Abdallah;I'm+Software+Engineer+" alt="Typing SVG" /></a>
 
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" height="360
-  " width=4050/>
+<p align="center" style="background-color: #000000;">
+  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" height="360" width="4050" />
 </p>
 <hr>
 - 🌱 I’m currently learning **C , Python**
