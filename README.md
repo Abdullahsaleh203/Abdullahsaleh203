@@ -28,7 +28,7 @@
 
 
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullahsaleh203&theme=midnight-purple&title_color=ff0000&text_color=ffffff&show_icons=true" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=abdullahsaleh203&theme=midnight-purple&title_color=ff0000&text_color=ffffff&show_icons=true" />
 
 
 
