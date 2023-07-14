@@ -24,10 +24,11 @@
 
 
 
-<a href="https://github.com/abdullahsaleh203">
-    <img alt="abdullahsaleh203's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdullahsaleh203&show_icons=true&count_private=true&locale=en&theme=tokyonight&title_color=ff0000&text_color=ffffff&layout=compact" height="205px" />
-</a>
 
+
+
+
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=abdullahsaleh203&theme=midnight-purple&title_color=ff0000&text_color=ffffff&show_icons=true" />
 
 
 
