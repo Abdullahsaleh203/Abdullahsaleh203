@@ -27,7 +27,8 @@
 
 
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=abdullahsaleh203&theme=midnight-purple&title_color=ff0000&text_color=ffffff&show_icons=true" height="205px"/></a>
+[![Abdullah Saleh](https://github-readme-stats.vercel.app/api?username=Abdullahsaleh203\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Abdullahsaleh203/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
 
 
 
