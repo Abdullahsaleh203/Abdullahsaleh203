@@ -6,7 +6,13 @@
 <hr>
 - 🌱 I’m currently learning C , Python
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdullahsaleh203.Abdullahsaleh203&left_color=forestgreen&right_color=red"  />
+</div>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
