@@ -4,13 +4,17 @@
   <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" height="360" width="4050" />
 </p>
 <hr>
+
+
 - 🌱 I’m currently learning C , Python
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdullahsaleh203.Abdullahsaleh203&left_color=forestgreen&right_color=red"  />
-</div>
+</div> -->
+
+![](https://komarev.com/ghpvc/?username=Abdullahsaleh203)
 
 ###
 
