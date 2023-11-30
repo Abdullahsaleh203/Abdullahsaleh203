@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C00000&random=false&width=435&lines=From+the+River+to+the+sea+;Palestian+will+be+Free;Free+Palestion)](https://git.io/typing-svg)
 
 <p align="center" style="background-color: #000000;">
-  <img src="https://i.pinimg.com/originals/1c/9d/21/1c9d21c5b7c4d4358ada26ba75990891.gif"/>
+  <img src="https://i.pinimg.com/originals/1c/9d/21/1c9d21c5b7c4d4358ada26ba75990891.gif" height="960" width="3050" />
 </p>
 <hr>
 - 🌱 I’m currently learning C , Python
