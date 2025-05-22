@@ -1,4 +1,4 @@
-# Hi there, I'm Abdullah Saleh 👋
+# Hi there, I'm Abdallah Saleh 👋
 
 ## 👨‍💻 About Me
 I'm a passionate backend developer specializing in building scalable, robust server-side applications. My main stack includes **Node.js**, **Express.js**, **Python**, **Django**, **Flask**, **C**, **Docker**, **Vue.js**, **Bash**, **TypeScript**, **JavaScript**, **Nginx**, **Linux**, and **Redis**. I enjoy solving complex problems, optimizing performance, and bringing ideas to life through code.
