@@ -1,7 +1,7 @@
 # Hi there, I'm Abdullah Saleh 👋
 
 ## 👨‍💻 About Me
-I'm a passionate backend developer specializing in building scalable, robust server-side applications. My main stack includes **Node.js**, **Express.js**, **Python**, **Django**, **Flask**, **C**, **Docker**, **Vue.js**, **Bash**, **TypeScript**, **JavaScript**, **Nginx**, and **Linux**. I enjoy solving complex problems, optimizing performance, and bringing ideas to life through code.
+I'm a passionate backend developer specializing in building scalable, robust server-side applications. My main stack includes **Node.js**, **Express.js**, **Python**, **Django**, **Flask**, **C**, **Docker**, **Vue.js**, **Bash**, **TypeScript**, **JavaScript**, **Nginx**, **Linux**, and **Redis**. I enjoy solving complex problems, optimizing performance, and bringing ideas to life through code.
 
 - 🔥 Always learning and exploring new technologies in backend development
 - 🛠️ Love to automate, refactor, and optimize for performance
@@ -24,6 +24,7 @@ I'm a passionate backend developer specializing in building scalable, robust ser
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## 📊 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullahsaleh203&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
